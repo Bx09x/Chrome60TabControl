@@ -8,5 +8,5 @@ Here's an example of the TabControl:
 
 # AI Models Used
 -
-* **Claude Fable 5.1** — TabControl design & implementation
-* **OpenCode Muse Spark 1.3 (Free)** — Minor tweaks & refinements
+**Claude Fable 5.1** — TabControl design & implementation
+**OpenCode Muse Spark 1.3 (Free)** — Minor tweaks & refinements
